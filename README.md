@@ -1,4 +1,4 @@
-# Level o Details (LOD's) in Tableau
+# Level of Details (LOD's) in Tableau
 
 Level of Details (LODs) are the complex formulas in Tableau. These are generally used when the data is not in required format and some type of data manipulation is required to acheive the required visulaization.
 
